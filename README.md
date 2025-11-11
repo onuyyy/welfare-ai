@@ -2,6 +2,9 @@
 
 노년층 행정·생활 지원을 위한 멀티 카테고리 RAG( Retrieval-Augmented Generation ) 에이전트 시스템입니다. Upstage LLM, LangChain, LangGraph, ChromaDB를 결합하여 카테고리별로 정확한 근거 기반 답변을 제공합니다.
 
+<img width="990" height="550" alt="image" src="https://github.com/user-attachments/assets/4c43bc64-694b-4095-9e24-ca5a3ae7f29a" />
+
+
 ## 주요 특징
 - LangChain · LangGraph 기반의 재작성 → 검색 → 평가 → 웹 보강 → 생성 파이프라인
 - Upstage Solar-Pro LLM & Solar-Embedding 조합으로 한국어 질의 최적화
